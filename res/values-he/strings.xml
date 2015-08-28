@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CallRecorder</string>
+    <string name="recording_enabled_prompt">הקלט במהלך שיחות</string>
+    <string name="audio_source_prompt">מקור אודיו</string>
+    <string name="audio_format_prompt">פורמט אודיו</string>
+</resources>
